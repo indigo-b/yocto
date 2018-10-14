@@ -1,4 +1,6 @@
 # yocto
 Test
 
-Test usecase for the yocto lazer edits.
+Test usecase for the yocto layer edits.
+
+Next changes.
